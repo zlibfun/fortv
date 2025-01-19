@@ -49,3 +49,13 @@ http://223.10.214.222:6003/udp/239.1.1.96:8096
 http://223.10.214.222:6003/udp/239.1.1.97:8097
 #EXTINF:-1 tvg-name="CCTV24" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-世界地理
 http://223.10.214.222:6003/udp/239.1.1.99:8099  
+#EXTINF:-1 tvg-name="CCTV25" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-中国教育1
+http://223.10.214.222:6003/udp/239.1.1.65:8065
+#EXTINF:-1 tvg-name="CCTV26" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-中国教育2
+http://223.10.214.222:6003/udp/239.1.1.66:8066
+#EXTINF:-1 tvg-name="CCTV28" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-中国教育3
+http://223.10.214.222:6003/udp/239.1.1.67:8067
+#EXTINF:-1 tvg-name="CCTV29" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-凤凰卫视
+http://223.10.214.222:6003/udp/239.1.1.126:8126
+#EXTINF:-1 tvg-name="29" tvg-logo="" group-title="央视",CCTV-凤凰资讯
+http://223.10.214.222:6003/udp/239.1.1.127:8127
